@@ -6,7 +6,7 @@ Welcome to ZeroXClem's GitHub profile! We are a team passionate about AI 💡 an
 
 ### 🤖ChatGPT Integration  
 
-We've been working on integrating OpenAI's ChatGPT into various applications. Our goal is to leverage the power of GPT-3 to provide more natural and interactive experiences for users.
+We've been working on integrating OpenAI's ChatGPT into various applications. Our goal is to leverage the power of GPT-4 to provide more natural and interactive experiences for users.
 
 ### 🤖 AI-Powered Plugins
 
