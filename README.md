@@ -1,7 +1,6 @@
 # 🤖 ZeroXClem 🤖
 
-Welcome to ZeroXClem Github! We are a team passionate about AI and its potential to revolutionize various aspects of our lives. Our main focus is on developing innovative AI solutions and integrating them into everyday applications.
-
+Welcome to ZeroXClem Github! We are a team passionate about AI and its potential to revolutionize various aspects of our lives. Currently shipping https://zeroxclem.com
 ## Grab a shovel and dig your way out of the rabbit hole 🐇🪓
 
 We believe in the idea of breaking free from challenges and finding a clear path forward with ZeroXClem.
