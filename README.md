@@ -9,7 +9,7 @@ We believe in the idea of breaking free from challenges and finding a clear path
 
 Zero Time Wasted ⏰, Zero Energy Lost ⚡, Zero Dollars Wasted 💸, and Zero to Hero 🦸‍♂️ Centering our core benefits our solutions bring. We highlight efficiency, cost-effectiveness, and the power to transform from novice to expert.
 
-## 📚 We are always learning 
+## 📚 We Are Always Learning 
 
 Our mission statement embodies our commitment to growth and improvement. It positions us as a dynamic and forward-thinking platform that is continuously evolving.
 
