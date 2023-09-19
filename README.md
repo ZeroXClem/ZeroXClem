@@ -2,17 +2,17 @@
 
 Welcome to ZeroXClem's GitHub profile! We are a team passionate about AI and its potential to revolutionize various aspects of our lives. Our main focus is on developing innovative AI solutions and integrating them into everyday applications.
 
-## "Grab a shovel and dig your way out of the rabbit hole" 🐇🪓
+## Grab a shovel and dig your way out of the rabbit hole 🐇🪓
 
-I love this metaphor! It conveys the idea of breaking free from challenges and finding a clear path forward with ZeroXClem.
+We believe in the idea of breaking free from challenges and finding a clear path forward with ZeroXClem.
 
 ## The four zeros - Zero Time Wasted ⏰, Zero Energy Lost ⚡, Zero Dollars Wasted 💸, and Zero to Hero 🦸‍♂️
 
-These emphasize the core benefits our solutions bring. They highlight efficiency, cost-effectiveness, and the power to transform from novice to expert.
+Centering our core benefits our solutions bring. We highlight efficiency, cost-effectiveness, and the power to transform from novice to expert.
 
-## "We are always learning" 📚
+## We are always learning 📚
 
-This statement embodies our commitment to growth and improvement. It positions us as a dynamic and forward-thinking platform that is continuously evolving.
+Our mission statement embodies our commitment to growth and improvement. It positions us as a dynamic and forward-thinking platform that is continuously evolving.
 
 ## 💡 AI Research
 
@@ -24,7 +24,7 @@ We're always open to collaborations. If you're interested in AI and want to work
 
 ## 📞 Contact Us
 
-Feel free to contact us if you have any questions, ideas, or just want to chat about AI. You can reach us [here](https://zeroxclem.zapier.com).
+Feel free to contact us if you have any questions, ideas, or just want to chat about AI. You can reach us [here](https://beacons.ai/zeroxclem).
 
 ## 👀 Follow Our Journey
 
