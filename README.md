@@ -1,15 +1,15 @@
-# 🤖 ZeroXClem 🤖
+# 🤖 ZeroXClem 
 
 Welcome to ZeroXClem Github! We are a team passionate about AI and its potential to revolutionize various aspects of our lives. Currently shipping https://zeroxclem.com
-## A Clear Path Forward
+## 🧠 A Clear Path Forward
 
 We believe in the idea of breaking free from challenges and finding a clear path forward with ZeroXClem.Grab a shovel and dig your way out of the rabbit hole 🐇🪓
 
-## Four Zeros
+## 0⃣ Four Zeros
 
 Zero Time Wasted ⏰, Zero Energy Lost ⚡, Zero Dollars Wasted 💸, and Zero to Hero 🦸‍♂️ Centering our core benefits our solutions bring. We highlight efficiency, cost-effectiveness, and the power to transform from novice to expert.
 
-## We are always learning 📚
+## 📚 We are always learning 
 
 Our mission statement embodies our commitment to growth and improvement. It positions us as a dynamic and forward-thinking platform that is continuously evolving.
 
