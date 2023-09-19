@@ -6,7 +6,7 @@ Welcome to ZeroXClem's GitHub profile! We are a team passionate about AI and its
 
 We believe in the idea of breaking free from challenges and finding a clear path forward with ZeroXClem.
 
-## The four zeros - Zero Time Wasted ⏰, Zero Energy Lost ⚡, Zero Dollars Wasted 💸, and Zero to Hero 🦸‍♂️
+## Zero Time Wasted ⏰, Zero Energy Lost ⚡, Zero Dollars Wasted 💸, and Zero to Hero 🦸‍♂️
 
 Centering our core benefits our solutions bring. We highlight efficiency, cost-effectiveness, and the power to transform from novice to expert.
 
