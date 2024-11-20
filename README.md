@@ -7,7 +7,7 @@ All you have to do is use all the available resources to your disposal. Have a "
 
 ## 📑 Table of Contents
 
-- [🧠 Our AI Odyssey](#-our-ai-odyssey)
+- [🧠 Welcome](#-Welcome)
   - [🚀 LLM Marvels](#-llm-marvels)
   - [🤖 Agentic Adventures](#-agentic-adventures)
   - [🧰 Custom AI Creations](#-custom-ai-creations)
@@ -21,9 +21,9 @@ All you have to do is use all the available resources to your disposal. Have a "
 
 ---
 
-## 🧠 Our AI Odyssey
+## 🧠 Welcome
 
-At ZeroXClem, we believe AI should be as accessible as it is powerful. Our extensive repository collection offers a diverse array of AI solutions:
+At ZeroXClem, we believe AI should be as accessible as it is powerful. Use with caution, as our extensive repository collection offers a diverse array of AI solutions:
 
 ### 🚀 LLM Marvels
 
