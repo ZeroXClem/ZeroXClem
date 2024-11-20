@@ -1,6 +1,6 @@
 # 🌟 ZeroXClem: Illuminating the AI Frontier
 
-Welcome to the dazzling world of **ZeroXClem**, where cutting-edge AI and machine learning dance in harmony! With a treasure trove of over 721 repositories, we're not just pushing boundaries—we're redefining them. From LLMs to agentic wonders, we're painting the future with strokes of digital brilliance. 🎨🤖
+Welcome to the dazzling world of **ZeroXClem**, where cutting-edge AI and machine learning dance in harmony! With a treasure trove of over 750+ repositories, we're not just pushing boundaries—we're redefining them. From LLMs to agentic wonders, we're painting the future with strokes of digital brilliance. 🎨🤖
 
 ## 🧠 Our AI Odyssey
 
